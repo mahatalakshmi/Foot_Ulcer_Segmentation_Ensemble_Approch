@@ -1,0 +1,1 @@
+# Foot_Ulcer_Segmentation_Ensemble_Approch
